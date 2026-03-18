@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rutika Patil 👋
 
-<!--
-**Rutu1227/Rutu1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Graduate
 
-Here are some ideas to get you started:
+💻 Currently learning
+- Java
+- Data Structures & Algorithms
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Coding Practice
+- HackerRank
+- CodeChef
+- LeetCode
+
+📂 GitHub Repository
+- Java-DSA-Practice (Java coding problems)
